@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 Interview Thozhan
 
 **Your Personal AI Interview Companion**: practise interviews, get feedback, build confidence. Made for college students, fresh graduates and job seekers, especially from rural backgrounds. Includes Tamil explanations.
@@ -64,3 +65,7 @@ python -m pytest -q
 ```
 `tests/test_app_smoke.py` uses a fake Streamlit module to click through every page and flow without a browser.
 It checks logic and flow, not the visual look.
+=======
+# interview-thozan
+AI-powered interview preparation companion
+>>>>>>> a592f2a21d41448ad2779fc158a7019de9ccc0fd
